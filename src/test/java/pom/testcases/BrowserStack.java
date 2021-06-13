@@ -14,6 +14,9 @@ public class BrowserStack {
 		  String USERNAME = "skbasha_F5ElKd";
 		  String AUTOMATE_KEY = "cmagQMTZkagUR19ygptM";
 		  String url = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
+		  
+		  
+		  
 		
 		DesiredCapabilities dc = new DesiredCapabilities();
 		dc.setCapability("os", "Windows");
