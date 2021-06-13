@@ -5,6 +5,8 @@ import wrappers.GenericWrappers;
 public class FTRService extends GenericWrappers{
 	public FTRService clickOnNewUser(){
 		clickByXpath("");
+		
+		
 		return this;
 	}	
 	public FTRService enterUserID(String UserId){
