@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47174" started-at="2021-06-13T10:59:09Z" finished-at="2021-06-13T10:59:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47174" started-at="2021-06-13T10:59:09Z" finished-at="2021-06-13T10:59:56Z">
+      <class name="pom.testcases.TC002">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="beforeSuite" is-config="true" duration-ms="382" started-at="2021-06-13T10:59:09Z" finished-at="2021-06-13T10:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="beforeTest" is-config="true" duration-ms="7" started-at="2021-06-13T10:59:09Z" finished-at="2021-06-13T10:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeCLass()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="beforeCLass" is-config="true" duration-ms="0" started-at="2021-06-13T10:59:09Z" finished-at="2021-06-13T10:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeCLass -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="openBrowser" is-config="true" duration-ms="14906" started-at="2021-06-13T10:59:09Z" finished-at="2021-06-13T10:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="tc002()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="tc002" duration-ms="30099" started-at="2021-06-13T10:59:24Z" finished-at="2021-06-13T10:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="closeApplication" is-config="true" duration-ms="649" started-at="2021-06-13T10:59:54Z" finished-at="2021-06-13T10:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="afterClass" is-config="true" duration-ms="1485" started-at="2021-06-13T10:59:55Z" finished-at="2021-06-13T10:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-06-13T10:59:56Z" finished-at="2021-06-13T10:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:pom.testcases.TC002@66480dd7]" name="afterSuite" is-config="true" duration-ms="111" started-at="2021-06-13T10:59:56Z" finished-at="2021-06-13T10:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- pom.testcases.TC002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
